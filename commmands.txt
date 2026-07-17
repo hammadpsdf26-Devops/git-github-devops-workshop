@@ -1,0 +1,8 @@
+ls 
+clear
+ls -l
+git init
+git add 
+git commit -m
+git restore
+rm 
