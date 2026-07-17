@@ -12,3 +12,5 @@ git is not a big thing its just a version control sys it is used to track code a
 and if you forgot your perivous code you can also go back to it , you can also retrive your delete code 
 
 github is an online plartform where we store code and share it with friends and track changes . make also ci/cd pipelies and repositeries 
+
+this is some thing new that is added in my git and a=gitub devops workshop 
