@@ -13,4 +13,6 @@ and if you forgot your perivous code you can also go back to it , you can also r
 
 github is an online plartform where we store code and share it with friends and track changes . make also ci/cd pipelies and repositeries 
 
-this is some thing new that is added in my git and a=gitub devops workshop 
+this is some thing new that is added in my git and a=gitub devops workshop
+
+hi dosto ksa ho ap sab or kia kr rah ahp kia gap shup hai 
