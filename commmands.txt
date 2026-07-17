@@ -6,3 +6,9 @@ git add
 git commit -m
 git restore
 rm 
+
+i have learn about git, git hub , github desktop 
+git is not a big thing its just a version control sys it is used to track code also its a open source 
+and if you forgot your perivous code you can also go back to it , you can also retrive your delete code 
+
+github is an online plartform where we store code and share it with friends and track changes . make also ci/cd pipelies and repositeries 
